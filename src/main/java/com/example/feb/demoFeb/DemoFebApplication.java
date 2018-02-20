@@ -10,5 +10,7 @@ public class DemoFebApplication {
 		SpringApplication.run(DemoFebApplication.class, args);
 		
 		System.out.println("abc");
+		
+		System.out.println("abc123");
 	}
 }
